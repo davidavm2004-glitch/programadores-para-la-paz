@@ -1,0 +1,4 @@
+git add .
+git commit -m "Actividad semana 2"
+git push
+git push -u origin main
