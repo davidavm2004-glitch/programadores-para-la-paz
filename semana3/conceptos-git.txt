@@ -1,0 +1,11 @@
+Repositorio
+Es donde podemomos almacenar y organizar la informacion en un determinado sitio. Almacenamos (proyectos, datos, archivos, documentos etc.. )
+que nos permite guardar, recuperar y compartir para que sea eficiente 
+
+Commit
+Guarda los cambios ya registrado como un punto de guardado en el repositorio donde podemos identificarlo colocandole 
+alguna etiqueta para saber los cambios que realizamos.(git commit -m)
+
+Push
+Este es muy importante ya que sube tus proyectos.Desde la terminal al 
+repositorio sea en Github, Gitlab etc.. (git push origin main)
