@@ -1,0 +1,20 @@
+Durante esta práctica trabajé con Express.js para crear un servidor web básico y entender cómo funciona
+la comunicación entre el navegador y el servidor. La experiencia fue muy interesante porque pude interactuar
+directamente con el navegador y observar cómo las rutas que programé respondían a las solicitudes que realizaba.
+
+Primero configuré un servidor que se ejecuta en el puerto 3000. Después creé diferentes rutas para enviar
+respuestas al navegador. Por ejemplo, al ingresar a la ruta principal ("/"), el servidor mostraba el mensaje
+"Servidor activo", confirmando que estaba funcionando correctamente.
+
+También implementé una ruta llamada "/saludo", que devolvía el mensaje "Hola comunidad". Esto me permitió
+ comprender cómo el servidor puede responder con información específica dependiendo de la dirección que se visite.
+
+La parte que más me gustó fue la creación de una ruta dinámica utilizando parámetros. En la ruta "/mensaje/",
+el servidor capturaba el nombre escrito en la URL y generaba una respuesta personalizada. Por ejemplo, 
+al escribir "/mensaje/Javi", el navegador mostraba "Hola Javi". Esta funcionalidad me pareció muy chévere porque 
+sentí que estaba creando una entidad capaz de responder de manera personalizada a cada usuario según la información
+que recibía.
+
+Gracias a esta actividad comprendí mejor el funcionamiento de las rutas, los parámetros y la interacción entre
+el navegador y el servidor. Además, fortalecí mis conocimientos en Node.js y Express.js, observando cómo una 
+aplicación web puede procesar solicitudes y generar respuestas dinámicas.
