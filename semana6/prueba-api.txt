@@ -1,0 +1,21 @@
+Al probar la ruta POST http://localhost:3000/registro utilizando Thunder Client, el servidor devolvió un Status 200 
+OK con la siguiente respuesta:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Status: 200 OK: Es un código estándar de internet que confirma que la petición fue recibida,
+ entendida y procesada con éxito por el servidor. No hubo errores de código ni de conexión.
+
+El contenido (JSON): El servidor te devolvió un objeto de datos con tres líneas:
+
+"estado":"Datos recibidos": Es un mensaje de confirmación que programaste 
+en tu código para avisar que la operación fue exitosa.
+
+"nombre": "Maria" 
+
+"mensaje": "Hola comunidad": El servidor te está regresando exactamente 
+los mismos datos que tú le enviaste en el Body. Esto demuestra que el servidor logró "leer" 
+e interpretar correctamente las variables que venían ocultas en la petición POST.
