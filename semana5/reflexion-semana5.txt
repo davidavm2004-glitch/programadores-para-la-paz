@@ -1,0 +1,15 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información,
+ reportes o alertas de manera organizada?
+
+ Las APIs son importantes para que las comunidades puedan compartir información, 
+ reportes y alertas de manera organizada porque permiten que todo funcione de forma más rápida, 
+ clara y ordenada, sin depender de mensajes sueltos o procesos complicados. Cuando una comunidad 
+ usa una API, puede reunir los datos en un solo sistema y hacer que cada reporte quede registrado 
+ con información útil como la fecha, el lugar y el tipo de problema. Eso ayuda a que las personas 
+ entiendan mejor lo que está pasando y puedan tomar decisiones más acertadas. También facilita que 
+ una alerta llegue a tiempo cuando ocurre una emergencia, un daño en un servicio o una situación que
+ necesita atención inmediata. Además, una API permite que distintas plataformas se conecten entre sí
+ y compartan información sin perder la organización. Esto es valioso porque evita confusiones, repeticiones
+ y errores al momento de comunicar algo importante. Desde un punto de vista humano, significa que la comunidad
+ puede cuidarse mejor, responder más rápido y trabajar unida. También fortalece la transparencia, porque 
+ la información no se queda guardada en un solo lugar, sino que puede ser consultada y aprovechada por más personas. 

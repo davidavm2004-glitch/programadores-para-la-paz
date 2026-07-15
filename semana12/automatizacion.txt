@@ -1,0 +1,7 @@
+Evento que activa la automatización:Cuando un ciudadano registra una nueva causa en la plataforma Petición en 3 Clics.
+
+Mensaje que se envía:"Se ha registrado una nueva causa en la plataforma. Ingresa al sistema para revisarla y realizar el seguimiento correspondiente."
+
+Información que no debe enviarse por seguridad:No se deben enviar cédulas, teléfonos, direcciones, correos electrónicos, contraseñas, comentarios sensibles
+ni ningún otro dato personal de los ciudadanos. Solo debe compartirse la información necesaria para notificar
+que existe una nueva causa, protegiendo la privacidad y la seguridad de los usuarios.

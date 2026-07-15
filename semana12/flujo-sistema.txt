@@ -1,0 +1,11 @@
+1. Un ciudadano inicia sesión en la plataforma y crea una nueva causa, describiendo el problema o la necesidad de la comunidad.
+
+2. La causa queda registrada de forma segura en la base de datos y pasa a estar disponible para su consulta.
+
+3. Otros ciudadanos pueden visualizar la causa, leer la información y registrar su apoyo o dejar comentarios relacionados con la propuesta.
+
+4. El sistema contabiliza automáticamente los apoyos recibidos y actualiza el estado de la causa para facilitar su seguimiento.
+
+5. Cuando la causa alcanza los criterios establecidos, el sistema genera un documento PDF con la petición y el resumen de los apoyos registrados.
+
+6. Finalmente, los responsables de la comunidad o la entidad correspondiente pueden revisar la petición y dar seguimiento a la solicitud, manteniendo informados a los ciudadanos sobre el avance del proceso.

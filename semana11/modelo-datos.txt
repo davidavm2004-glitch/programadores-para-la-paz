@@ -1,0 +1,41 @@
+Entidad: Ciudadano
+
+Campos principales:
+
+id
+nombre
+correo
+teléfono
+fecha_registro
+
+Propósito:
+Registrar la información básica de los ciudadanos que participan en la plataforma y permitir su identificación
+para el seguimiento de sus actividades.
+
+Entidad: Reporte
+
+Campos principales:
+
+id
+ciudadano_id
+título
+descripción
+estado
+fecha
+
+Propósito:
+Guardar los reportes, quejas, sugerencias o incidencias registradas por la comunidad para facilitar su seguimiento y gestión.
+
+Entidad: Comentario
+
+Campos principales:
+
+id
+reporte_id
+ciudadano_id
+comentario
+fecha
+
+Propósito:
+Registrar los comentarios y aportes realizados por los ciudadanos sobre cada reporte, fomentando
+la participación y el seguimiento de los casos.

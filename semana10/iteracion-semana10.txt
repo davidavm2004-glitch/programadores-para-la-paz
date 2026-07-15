@@ -1,0 +1,28 @@
+¿Qué 2 tareas del backlog harías primero?
+
+ 1. Registro/inicio de sesión y perfil básico.
+ 2. Publicar y ver contenido comunitario principal.
+
+
+¿Por qué son las más importantes?
+
+La priorización del backlog busca entregar antes lo que
+más valor aporta al usuario final. Además, criterios como
+valor de negocio, riesgo y dependencias ayudan a decidir
+qué va primero, así que conviene arrancar por una base
+funcional que habilite muchas historias futuras y por
+la función central que da vida a la comunidad.
+
+
+¿Qué significa para ti que una tarea esté “terminada”
+
+Significa que los programadores para la paz cumplieron un objetivo, llegaron
+a la meta de poder desarrollar esta app en beneficio de mi comunidad, ya 
+que es el entorno y la zona que compartimos donde vivimos. Eso es muy gratificante
+y me pone muy contento, por supuesto, para ellos y para mí.
+
+
+Funcionacorrectamente y cumple con el objetivo para el que fue desarrollada.
+Fue probada en múltiples ocasiones para verificar que no presente errores.
+Quedó registrada en Git mediante un commit (git commit -m) y fue enviada al 
+repositorio con git push, dejando evidencia de los cambios realizados.

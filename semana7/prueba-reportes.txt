@@ -1,0 +1,9 @@
+Ejemplo de respuesta esperada al consultar GET /reportes:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
